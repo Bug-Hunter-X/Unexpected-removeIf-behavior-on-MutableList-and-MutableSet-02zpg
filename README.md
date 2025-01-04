@@ -1,0 +1,1 @@
+This repository demonstrates a subtle difference in how `removeIf` operates on `MutableList` and `MutableSet` in Kotlin.  While both appear to remove elements based on a predicate, the behavior can be different due to the underlying implementation.  The solution shows how to handle this consistently and safely.
